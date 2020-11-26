@@ -189,3 +189,6 @@ To check whether you can acknowledge an event you can use the `IsAcknowledgable`
     });
 ```
 
+## newtonsoft.json
+netstandard2.0 
+https://github.com/JamesNK/Newtonsoft.Json 
