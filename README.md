@@ -1,6 +1,6 @@
 # Unity SocketIO Client
 A SocketIO client for Unity written in C#.
-It's compatible with the latest version of the SocketIO server for node.js (2.0.2) and should be compatible with any other version that leverages the same protocol spec.
+It's compatible with the latest version of the SocketIO server for node.js (2.3.0) and should be compatible with any other version that leverages the same protocol spec.
 
 ## Features
 - Send/Receive SocketIO events
